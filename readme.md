@@ -33,32 +33,32 @@ The app was developed using the following libraries:
 
 
 ## Onboarding
-<img src="/images/Onboarding.png" width="200" height="350"><br>
+<img src="/images/OnBoading.png" width="300" height="550"><br>
 
 ## Login
-<img src="/images/Login.png" width="200" height="350"><br>
+<img src="/images/Login.png" width="300" height="550"><br>
 
 ## Signup
-<img src="/images/SignUp.png" width="200" height="350"><br>
+<img src="/images/SignUp.png" width="300" height="550"><br>
 
 ## Home
-<img src="/images/Home.png" width="200" height="350"><br>
+<img src="/images/Home.png" width="300" height="550"><br>
 
 ## Cart
-<img src="/images/Cart.png" width="200" height="350"><br>
+<img src="/images/Cart.png" width="300" height="550"><br>
 
 
 ## Orders
-<img src="/images/Orders.png" width="200" height="350"><br>
+<img src="/images/Orders.png" width="300" height="550"><br>
 
 ## Profile
-<img src="/images/Profile.png" width="200" height="350"><br>
+<img src="/images/Profile.png" width="300" height="550"><br>
 
 ## Select Pizza
-<img src="/images/SeletePizza.png" width="200" height="350"><br>
+<img src="/images/SeletePizza.png" width="300" height="550"><br>
 
 ## Details
-<img src="/images/Details.png" width="200" height="350"><br>
+<img src="/images/Details.png" width="300" height="550"><br>
 
 
 
