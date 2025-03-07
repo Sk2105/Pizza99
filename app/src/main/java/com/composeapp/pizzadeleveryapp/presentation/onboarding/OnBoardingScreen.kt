@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.MaterialTheme
@@ -36,11 +37,8 @@ import com.composeapp.pizzadeleveryapp.presentation.navigation.graph.AppGraph
 fun OnBoardingScreen(navHostController: NavHostController) {
 
 
-    Scaffold(
-        modifier = Modifier.fillMaxSize()
-    ) {
         Box(
-            modifier = Modifier.padding(it)
+            modifier = Modifier.fillMaxSize()
         ) {
             Image(
                 painter = painterResource(id = R.drawable.onboarding),
@@ -53,7 +51,6 @@ fun OnBoardingScreen(navHostController: NavHostController) {
 
         Column(
             modifier = Modifier
-                .padding(it)
                 .fillMaxSize()
                 .padding(bottom = 100.dp),
             verticalArrangement = Arrangement.Bottom,
@@ -111,5 +108,5 @@ fun OnBoardingScreen(navHostController: NavHostController) {
 
 
         }
-    }
+
 }

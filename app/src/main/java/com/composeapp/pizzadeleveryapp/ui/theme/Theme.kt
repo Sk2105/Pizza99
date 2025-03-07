@@ -3,6 +3,7 @@ package com.composeapp.pizzadeleveryapp.ui.theme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.SideEffect
 
 private val DarkColorScheme = darkColorScheme(
     primary = Orange40,
@@ -18,6 +19,10 @@ fun PizzaDeliveryAppTheme(
     content: @Composable () -> Unit
 ) {
 
+
+    SideEffect {
+
+    }
 
     MaterialTheme(
         colorScheme = DarkColorScheme,
