@@ -32,24 +32,19 @@ The app was developed using the following libraries:
 - Coroutines
 
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="/images/OnBoading.png" width="250" height="450">
+    <img src="/images/Login.png" width="250" height="450">
+    <img src="/images/SignUp.png" width="250" height="450">
+    <img src="/images/Home.png" width="250" height="450">
+    <img src="/images/Cart.png" width="250" height="450">
+    <img src="/images/Orders.png" width="250" height="450">
+    <img src="/images/Profile.png" width="250" height="450">
+    <img src="/images/SeletePizza.png" width="250" height="450">
+    <img src="/images/Details.png" width="250" height="450">
+</div>
 
-<img src="/images/OnBoading.png" width="250" height="450">
 
-<img src="/images/Login.png" width="250" height="450">
-
-<img src="/images/SignUp.png" width="250" height="450">
-
-<img src="/images/Home.png" width="250" height="450">
-
-<img src="/images/Cart.png" width="250" height="450">
-
-<img src="/images/Orders.png" width="250" height="450">
-
-<img src="/images/Profile.png" width="250" height="450">
-
-<img src="/images/SeletePizza.png" width="250" height="450">
-
-<img src="/images/Details.png" width="250" height="450">
 
 
 
