@@ -32,6 +32,7 @@ The app was developed using the following libraries:
 - Coroutines
 
 
+<<<<<<< HEAD
 - Onboarding
 <img src="/images/OnBoading.png" width="250" height="450">
 
@@ -46,10 +47,27 @@ The app was developed using the following libraries:
 
 - Cart
 <img src="/images/Cart.png" width="250" height="450">
+=======
+## Onboarding
+<img src="/images/OnBoading.png" width="300" height="550"><br>
+
+## Login
+<img src="/images/Login.png" width="300" height="550"><br>
+
+## Signup
+<img src="/images/SignUp.png" width="300" height="550"><br>
+
+## Home
+<img src="/images/Home.png" width="300" height="550"><br>
+
+## Cart
+<img src="/images/Cart.png" width="300" height="550"><br>
+>>>>>>> c887ac5b59583517bbd2381e5b68e26f21f46429
 
 - Orders
 <img src="/images/Orders.png" width="250" height="450">
 
+<<<<<<< HEAD
 - Profile
 <img src="/images/Profile.png" width="250" height="450">
 
@@ -58,6 +76,19 @@ The app was developed using the following libraries:
 
 - Details
 <img src="/images/Details.png" width="250" height="450">
+=======
+## Orders
+<img src="/images/Orders.png" width="300" height="550"><br>
+
+## Profile
+<img src="/images/Profile.png" width="300" height="550"><br>
+
+## Select Pizza
+<img src="/images/SeletePizza.png" width="300" height="550"><br>
+
+## Details
+<img src="/images/Details.png" width="300" height="550"><br>
+>>>>>>> c887ac5b59583517bbd2381e5b68e26f21f46429
 
 
 
